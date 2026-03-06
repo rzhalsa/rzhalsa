@@ -21,7 +21,7 @@ Essentially, I excel in environments where the code I create has tangible, posit
 Python, JavaScript, C, Java, Bash
 
 ### Full Stack
-HTML5, CSS, Vue.js, Axios, MongoDB
+HTML5, CSS, SQL, Django, Vue.js, Axios, MongoDB, MySQL
 
 ### CI/CD
 Docker, GitHub Actions, AWS  
