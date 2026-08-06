@@ -17,7 +17,7 @@ I'm deeply interested in Operating Systems, Automation, Web Development, and Scr
 
 ### 🧠 **Skills**
 ### Languages
-Python, JS, C, Java, Bash
+Python, JavaScript, C, Java, Kotlin, Bash
 
 ### Full Stack
 HTML, CSS, SQL, Vue.js, Django, MongoDB, MySQL
