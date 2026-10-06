@@ -25,6 +25,9 @@ HTML, CSS, SQL, Vue.js, Django, MongoDB, MySQL
 ### CI/CD
 Docker, GitHub Actions, AWS  
 
+### Infrastructure
+Cloudflare, DigitalOcean, Wireguard
+
 ### IDE and Version Control
 VSCode, IntelliJ, Android Studio, Git
 
